@@ -1,4 +1,4 @@
-# Portfolio Data Scientist
+# Cuauhtémoc Bautista - Portfolio Data Scientist
 En este portafolio estaré subiendo algunos proyectos relevantes que puedan ayudar a los reclutadores a conocer mis hablidades para el procesamiento, análisis y modelación de datos, big data y machine learning.
 
 El repositorio contiene los siguientes proyectos:
