@@ -1,5 +1,5 @@
 # Portfolio Data Scientist
-Aquí estaré subiendo proyectos que he desarrollado, que puedan ayudar a los reclutadores a conocer mis hablidades técnicas para el manejo de datos, big data y machine learning.
+En este portafolio estaré subiendo algunos proyectos relevantes que puedan ayudar a los reclutadores a conocer mis hablidades para el procesamiento, análisis y modelación de datos, big data y machine learning.
 
 El repositorio contiene los siguientes proyectos:
 - **Precipitación-Australia:** Proyecto Data Science para el determinar si lloverá o no, utilizando algoritmos: Logistic Regression, XGBoost, Naive Bayes, KNeighborsClassifier.
