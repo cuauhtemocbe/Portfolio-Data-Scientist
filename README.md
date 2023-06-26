@@ -7,4 +7,4 @@ El repositorio contiene los siguientes proyectos:
 - **Curso Python básico:** Es el material que desarrollé para impartir cursos de python básico. Lo desarrollé pensando en personas que nunca han programado, con muchos ejercicios para que practiquen y con material resumido para no saturarlos con información.
 - **ETL Flow:** Es un breve ETL, donde creo una base de datos usando postgres mediante comandos de linux, 
 para después automatizar un proceso de [1] extracción de datos mediante la conexión a una API, depués una serie de [2] transformaciones con el uso de pandas y finalmente [3] guardar la información en la base de datos. Finalmente realizo algunos conteos agrupados con pandas.
-- **Apuntes modelos de machine learning:** Son notebooks que contienen diferentes algoritmos de machine learning, y que he desarrollado a modo de apuntes para estudiar el código y el funcionamieto de los algoritmos.
+- **Apuntes modelos de machine learning:** Son notebooks que contienen diferentes algoritmos de machine learning, y que he desarrollado a modo de apuntes para estudiar el código y los algoritmos.
