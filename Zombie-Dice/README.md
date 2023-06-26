@@ -5,5 +5,5 @@ Desarrollé este proyecto con la finalidad de mostrar mis habilidades con progra
 - **zombie_dice_game.py:** Es el módulo final para ejecutar el programa
 - **zombi_dice.gif:** Un gif donde se puede ver el funcionamiento del programa
 
-![zombie-dice-example] (https://github.com/cuauhtemocbe/Portfolio-Data-Scientist/tree/main/Zombie-Dice/zombie_dice.gif)
+![zombie-dice-example](https://github.com/cuauhtemocbe/Portfolio-Data-Scientist/tree/main/Zombie-Dice/zombie_dice.gif)
 
