@@ -8,8 +8,8 @@ El proyecto **Precipitación-Australia** contiene todo el proceso para la genera
 - Conclusión
 
 En este proyecto me enfoque en estructurarlo con las características necesarias para llevarlo a producción y organizado como un proyecto de Data Science:
-- data: contiene los datos utilizados para el desarrollo dle proyecto
-- notebooks: Contiene los archivos html y ipynb (notebooks de jupyter) del análisis y modelado de la información. Los notebooks se encuentran debidamente comentados.
-- requirements: contiene el archivo requirements.txt para generar el ambiente virtual y poder montar el proceso
-- src: contiene el código python generado
+- **data:** contiene los datos utilizados para el desarrollo dle proyecto
+- **notebooks:** Contiene los archivos html y ipynb (notebooks de jupyter) del análisis y modelado de la información. Los notebooks se encuentran debidamente comentados.
+- **requirements:** contiene el archivo requirements.txt para generar el ambiente virtual y poder montar el proceso
+- **src:** contiene el código python generado
 
