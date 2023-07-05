@@ -14,3 +14,5 @@ para después automatizar un proceso de [1] extracción de datos mediante la con
 ![](ETL-DB-API/database_creation_v2.gif)
 
 - **Apuntes modelos de machine learning:** Son notebooks que he desarrollado a modo de apuntes para estudiar el código y los algoritmos.
+- **Natural Processing Language:** Contiene algunos modelos que he realizado a manera didáctica para entrenarme en el desarrollo de modelos mediante técticas de NLP.
+
