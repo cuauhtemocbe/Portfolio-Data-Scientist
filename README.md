@@ -1,5 +1,5 @@
 # Cuauhtémoc Bautista - Portfolio Data Scientist
-En este portafolio estaré subiendo algunos proyectos relevantes que puedan ayudar a los reclutadores a conocer mis hablidades para el procesamiento, análisis y modelación de datos, big data y machine learning.
+Proyectos relevantes que desarrollado, los cuales incluyen: procesamiento, análisis y modelación de datos, big data y machine learning.
 
 El repositorio contiene los siguientes proyectos:
 - **Precipitación-Australia:** Proyecto Data Science para el determinar si lloverá o no mediante el análisis de datos climatológicos de Australia, y generadon diversos modelos de clasificación con: Logistic Regression, XGBoost, Naive Bayes, KNeighborsClassifier.
