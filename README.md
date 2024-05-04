@@ -2,6 +2,7 @@
 Proyectos relevantes que desarrollado, los cuales incluyen: procesamiento, análisis y modelación de datos, big data y machine learning.
 
 El repositorio contiene los siguientes proyectos:
+- **Diplomado de Ciencia de Datos:** Proyectos realizados durante el diplomado de ciencia de datos impartido por la UNAM https://github.com/cuauhtemocbe/Diplomado-Ciencia-Datos.
 - **Precipitación-Australia:** Proyecto Data Science para el determinar si lloverá o no mediante el análisis de datos climatológicos de Australia, y generadon diversos modelos de clasificación con: Logistic Regression, XGBoost, Naive Bayes, KNeighborsClassifier.
 - **Zombie Dice:** Muestro mis habilidades de programación orientada a objetos, con el uso de funciones, clases y métodos para crear un juego de mesa basado en el popular juego de dados Zombie Dice.
 
