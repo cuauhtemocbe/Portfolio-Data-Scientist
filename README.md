@@ -1,8 +1,9 @@
 # Cuauhtémoc Bautista - Portfolio Data Scientist
-Proyectos relevantes que desarrollado, los cuales incluyen: procesamiento, análisis y modelación de datos, big data y machine learning.
+Durante mi trayectoria profesional, he liderado una serie de proyectos destacados enfocados en el procesamiento, análisis y modelado de datos, así como en el ámbito de big data y machine learning. Algunos de estos proyectos incluyen:
 
-El repositorio contiene los siguientes proyectos:
-- **Diplomado de Ciencia de Datos:** Proyectos realizados durante el diplomado de ciencia de datos impartido por la UNAM https://github.com/cuauhtemocbe/Diplomado-Ciencia-Datos.
+- **Diplomado de Ciencia de Datos:** Proyectos realizados durante el Diplomado de Ciencia 2024 de datos impartido por la UNAM https://github.com/cuauhtemocbe/Diplomado-Ciencia-Datos
+- **DataScience-Docker:** Desarrollé un repositorio que ofrece una configuración lista para usar de un entorno de desarrollo para Python 3.10.11 centrado en Ciencia de Datos. Utiliza Docker, simplifica la creación de un ambiente aislado y reproducible, eliminando las dificultades de la configuración manual https://github.com/cuauhtemocbe/DataScience-Docker
+- **Pyspark-Jupyter-Poetry:** Este repositorio proporciona una configuración para desplegar un entorno de Apache Spark para desarrollar proyectos de análisis de datos distribuidos y que se pueda trabajar desde un Jupyter notebook. https://github.com/cuauhtemocbe/Pyspark-Jupyter-Docker-Template/blob/main/README.md
 - **Precipitación-Australia:** Proyecto Data Science para el determinar si lloverá o no mediante el análisis de datos climatológicos de Australia, y generadon diversos modelos de clasificación con: Logistic Regression, XGBoost, Naive Bayes, KNeighborsClassifier.
 - **Zombie Dice:** Muestro mis habilidades de programación orientada a objetos, con el uso de funciones, clases y métodos para crear un juego de mesa basado en el popular juego de dados Zombie Dice.
 
