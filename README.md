@@ -18,3 +18,15 @@ para después automatizar un proceso de [1] extracción de datos mediante la con
 - **Apuntes modelos de machine learning:** Son notebooks que he desarrollado a modo de apuntes para estudiar el código y los algoritmos.
 - **Natural Processing Language:** Contiene algunos modelos que he realizado a manera didáctica para entrenarme en el desarrollo de modelos mediante técticas de NLP.
 
+## Git hooks
+
+Este repositorio incluye un hook `pre-push` (en `.githooks/`) que ejecuta [Trivy](https://github.com/aquasecurity/trivy) y bloquea el push si encuentra una vulnerabilidad **CRITICAL con fix disponible** en las dependencias. Las vulnerabilidades HIGH/MEDIUM y las CRITICAL sin fix publicado no bloquean.
+
+El hook **no se activa al clonar**; la instalación es explícita y opcional, una vez por clon:
+
+```bash
+bash scripts/install-hooks.sh
+```
+
+- Requiere `trivy` en el `PATH`. Si no está instalado, el hook **falla cerrado** (bloquea el push) e indica cómo instalarlo.
+- El script solo configura `core.hooksPath` a `.githooks`; para desactivarlo: `git config --unset core.hooksPath`.
